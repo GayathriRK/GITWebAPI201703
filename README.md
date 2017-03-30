@@ -1,16 +1,30 @@
 
+
+
+
+
+
 # GITWebAPI201703
 Project_Exercise1.0.0
 
 ## Usage:
 Execute the below methods on Fiddler to test the API
 Note:Use the localhost address in place of below mentioned uri "http://localhost:51988"
+
+
+
+
+
 1)Get:
 
 http://localhost:51988/api/employees
 
 2)Get Method for a specific contact
 http://localhost:51988/api/employees
+
+
+
+
 3)Post:
 http://localhost:51988/api/employees
 
@@ -33,8 +47,14 @@ http://localhost:51988/api/employees/3
 ## Installation Steps
 
  *	Execute the below Script in SQL Database to create a database and table
+ 
+ 
+ 
 	CREATE DATABASE Test_Project
+	
+	
 	Go
+	
 	CREATE TABLE Employee(
 	EMP_ID INT NOT NULL IDENTITY(1,1), 
 	FIRST_NAME VARCHAR(50),
