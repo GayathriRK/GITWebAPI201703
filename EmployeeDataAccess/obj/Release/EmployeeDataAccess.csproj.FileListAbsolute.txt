@@ -1,0 +1,9 @@
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Release\EmployeeDataAccess.dll.config
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Release\EmployeeDataAccess.dll
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Release\EmployeeDataAccess.pdb
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Release\EntityFramework.dll
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Release\EntityFramework.SqlServer.dll
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Release\EntityFramework.xml
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Release\EntityFramework.SqlServer.xml
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\obj\Release\EmployeeDataAccess.dll
+c:\users\pritika\documents\visual studio 2013\Projects\EmployeeService\EmployeeDataAccess\obj\Release\EmployeeDataAccess.pdb
